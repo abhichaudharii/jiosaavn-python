@@ -241,6 +241,15 @@ data = asyncio.run(saavn.search_topquery("the landers"))
 print(json.dumps(data, indent=4))
 ```
 
+### Todo
+- [ ] Add download support for album
+- [ ] Add download support for playlist
+- [ ] Add download support for podcasts
+- [ ] Add get details feature for album
+- [ ] Add get details feature for atrist
+- [ ] Add get details feature for playlist
+- [ ] Add get details feature for podcasts
+
 
 License
 ----
